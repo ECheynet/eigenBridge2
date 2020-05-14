@@ -1,6 +1,8 @@
 # Linear vertical vibrations of suspension bridges
 
 
+[![DOI](https://zenodo.org/badge/263912798.svg)](https://zenodo.org/badge/latestdoi/263912798)
+
 ## Summary
 
 The vertical eigenfrequencies and mode shapes of a single-span suspension bridge are computed using the method by Luco et Turmo [1]. For the sake of completeness, the computed modal parameters are compared with those obtained using the method by Sigbjørnsson & Hjorth-Hansen [2] and Strømmen [3].
