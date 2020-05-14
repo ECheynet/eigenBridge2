@@ -3,11 +3,11 @@
 
 ## Summary
 
-The vertical eigenfrequencies and mode shapes of a single-span suspension brdidge are computed using the method by uco et al. [1]. For the sake of completeness, the computed modal aprameters are compared with those obtained using the method by Sigbjørnsson & Hjorth-Hansen [2] and Stræmmen [3].
+The vertical eigenfrequencies and mode shapes of a single-span suspension bridge are computed using the method by Luco et Turmo [1]. For the sake of completeness, the computed modal parameters are compared with those obtained using the method by Sigbjørnsson & Hjorth-Hansen [2] and Strømmen [3].
 
 
 ## Content
-The submission contains 3 Matlab functions:
+The submission contains:
 - eigenBridge.m (it is identical to File ID: #51815) and is inspired from [5,6]
 - eigenridge2.m based on works of [4]. I am simply writing the equations and their solutions in a numerical way.
 - eigBridge_Verification.m: its only purpose is to verify the numerical implementation of eigenBridge2.m
