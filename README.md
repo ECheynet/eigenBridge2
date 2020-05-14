@@ -1,6 +1,6 @@
-# Linear vertical vibrations of suspension bridges
+# Linear vertical vibrations of a  suspension bridge
 
-
+[![View Linear vertical vibrations of suspension bridges on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://se.mathworks.com/matlabcentral/fileexchange/54649-linear-vertical-vibrations-of-suspension-bridges)
 [![DOI](https://zenodo.org/badge/263912798.svg)](https://zenodo.org/badge/latestdoi/263912798)
 
 ## Summary
